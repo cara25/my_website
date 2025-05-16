@@ -4,6 +4,7 @@ project:
 website:
   title: "Cara's Website"
   navbar:
+    background: light
     left:
       - href: index.qmd
         text: Home
@@ -12,7 +13,7 @@ website:
 
 format:
   html:
-    theme: jolla
+    theme: cosmo
     css: styles.css
     toc: true
 
