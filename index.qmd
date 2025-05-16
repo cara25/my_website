@@ -1,7 +1,8 @@
 ---
-title: "my_website"
+title: "Home Page"
 ---
 
 Welcome to my website! This is very rudimentary, and I will keep updating it as time goes on. You can learn more about me and access my resume through the respective pages.
 
 Thanks for visiting!
+

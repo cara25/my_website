@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "my_website"
+  title: "Cara's Website"
   navbar:
     left:
       - href: index.qmd
@@ -12,7 +12,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: jolla
     css: styles.css
     toc: true
 
