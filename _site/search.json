@@ -9,8 +9,22 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Cara Chang",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "Text here about me!"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Cara Chang",
+    "section": "Education",
+    "text": "Education\nEducation here!"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Cara Chang",
+    "section": "Experience",
+    "text": "Experience\nExperience here!"
   }
 ]

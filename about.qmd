@@ -1,9 +1,23 @@
 ---
-title: "About"
+title: "Cara Chang"
+about:
+  template: jolla
+  image: materials/headshot.JPG
+  links:
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/carachang/
+    - icon: github
+      text: Github
+      href: https://github.com/cara25
 ---
 
-About this site
+Text here about me!
 
-```{r}
-1 + 1
-```
+## Education
+
+Education here!
+
+## Experience
+
+Experience here!
