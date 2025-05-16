@@ -4,13 +4,27 @@
     "href": "index.html",
     "title": "my_website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to my website! This is very rudimentary, and I will keep updating it as time goes on. You can learn more about me and access my resume through the respective pages.\nThanks for visiting!"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Cara Chang",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Text here about me!"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Cara Chang",
+    "section": "Education",
+    "text": "Education\nEducation here!"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Cara Chang",
+    "section": "Experience",
+    "text": "Experience\nExperience here!"
   }
 ]
