@@ -12,7 +12,9 @@ about:
       href: https://github.com/cara25
 ---
 
-Text here about me!
+Hi! My name is Cara Chang (she/her), and I am a graduating senior at Northwestern University majoring in Data Science, Economics, and International Studies. I am passionate about the intersection of machine learning and business, with experience in computational biology research and a consulting organization, CASE.
+
+[Download my resume here - updated May 16, 2025](materials/resume_may_16_25.pdf)
 
 ## Education
 

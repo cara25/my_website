@@ -9,9 +9,6 @@ website:
         text: Home
       - href: about.qmd
         text: About
-    right:
-      - text: My Resume
-        href: materials/resume_may_16_25.pdf
 
 format:
   html:
